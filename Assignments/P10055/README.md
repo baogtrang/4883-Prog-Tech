@@ -10,7 +10,7 @@ Hashmat is a brave warrior who, with his group of young soldiers, moves from one
 |   #   | File                    | Description                                           |
 | :---: | ----------------------- | ----------------------------------------------------- |
 |   1   | [Hashmat.cpp]([./Hashmat.cpp](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/P10055/main.cpp))   | Main solution file for the Hashmat problem.           |
-|   2   | [input.txt](./input.txt)       | Sample input file with different soldier combinations |
+|   2   | [input.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/P10055/input.txt)       | Sample input file with different soldier combinations |
 |   3   | [output.txt](./output.txt)     | Output file with the difference of soldiers.          |
 
 ### Instructions
