@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   0   | link 0      | description 0          |
+|   1   | [A01](https://github.com/baogtrang/4883-Prog-Tech/tree/main/Assignments/P10055)      | p10055          |
