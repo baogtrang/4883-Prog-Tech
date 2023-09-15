@@ -2,10 +2,10 @@
 ### Bao Trang
 ### Description:
 This assignment deals with the analysis of hardwood tree species in the U.S. Using satellite data:
-
-Parse tree species data from input files.
-Calculate and display the percentage of each species.
-Use C++ with emphasis on STL Maps, Vectors, and Pairs for data handling.
+Tasks:
+1) Parse tree species data from input files.
+2) Calculate and display the percentage of each species.
+3) Use C++ with emphasis on STL Maps, Vectors, and Pairs for data handling.
 
 ### Files
 
