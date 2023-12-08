@@ -9,9 +9,9 @@ This solution is for the "Above Average" problem from UVA Online Judge. The prob
 
 |   #   | File                         | Description                                                 |
 | :---: | ---------------------------- | ----------------------------------------------------------- |
-|   1   | [main.cpp](./main.cpp)       | Main C++ source file which calculates the above-average percentages. |
-|   2   | [input.txt](./input.txt)     | Input file containing test cases with student scores.|
-|   3   | [output.txt](./output.txt)   | Output file where the calculated percentages are written.   |
+|   1   | [main.cpp](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A04/P10370/main.cpp)       | Main C++ source file which calculates the above-average percentages. |
+|   2   | [input.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A04/P10370/input.txt)     | Input file containing test cases with student scores.|
+|   3   | [output.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A04/P10370/output.txt)   | Output file where the calculated percentages are written.   |
 
 
 ## Execution Instructions
