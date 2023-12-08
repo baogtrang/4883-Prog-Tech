@@ -8,8 +8,8 @@ Imagine driving to work and catching every traffic light when it's green. One da
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [Main.cpp](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/P161/main.cpp)| Main program      |
-|   2   | [input.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/P161/input.txt)  | the input file|
-|   3   | [output.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/P161/output.txt) | the output file |
+|   1   | [Main.cpp](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A05/main.cpp)| Main program      |
+|   2   | [input.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A05/input.txt)  | the input file|
+|   3   | [output.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A05/output.txt) | the output file |
 
 
