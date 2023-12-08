@@ -1,4 +1,4 @@
-## P161 - Traffic lights
+## A05 - Traffic lights
 ### Bao Trang
 ### Description:
 Develop a program that determines the time it takes for all traffic lights in a scenario to simultaneously show green or if this synchronization does not occur within a specified duration.
