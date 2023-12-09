@@ -9,7 +9,7 @@ This solution is for the "Summation of Polynomials" problem from the UVA Online 
 
 |   #   | File                         | Description                                                  |
 | :---: | ---------------------------- | ------------------------------------------------------------ |
-|   1   | [main.cpp]https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A04/P10302/main.cpp)       | Main C++ source file|
+|   1   | [main.cpp](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A04/P10302/main.cpp)       | Main C++ source file|
 |   2   | [input.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A04/P10302/input.txt)     | Sample input file                          |
 |   3   | [output.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A04/P10302/output.txt)   | Output file  |
        
