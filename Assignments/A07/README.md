@@ -13,7 +13,4 @@ In PopPush City's famous railway station, trains arrive in increasing order of t
 |   2   | [input.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A07/input.txt)  | the input file |
 |   3   | [output.txt](https://github.com/baogtrang/4883-Prog-Tech/blob/main/Assignments/A07/output.txt) | the output file |
 
-### Instructions:
--Ensure input data is in input.txt.
--Run the program.
--Check output.txt for the results.
+
