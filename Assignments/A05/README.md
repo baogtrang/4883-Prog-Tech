@@ -1,8 +1,7 @@
 ## A05 - Traffic lights
 ### Bao Trang
-### Description:
-Develop a program that determines the time it takes for all traffic lights in a scenario to simultaneously show green or if this synchronization does not occur within a specified duration.
-Imagine driving to work and catching every traffic light when it's green. One day, you notice every light you can see has turned green simultaneously. You start pondering about how long it would be before they all show green again at the same time, even if just for a brief moment. Your task is to write a program that answers this curiosity based on the given cycles of the traffic lights.
+## Project Description
+The Traffic Lights problem involves determining the moment when all the traffic lights on multiple streets are green simultaneously. This simulation considers the cycles of different traffic lights and calculates the earliest time at which all lights are synchronized to be green. The challenge lies in handling the various cycles of lights and determining the synchronization point, if it exists, within a given time frame.
 
 ### Files
 
